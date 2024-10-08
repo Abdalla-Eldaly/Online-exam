@@ -1,7 +1,7 @@
 class Constants {
   Constants._();
 
-  static const String baseUrl = "https://exam.elevateegy.com/";
+  static const String baseUrl = "https://exam.elevateegy.com/api/v1/";
   static const int apiTimeOut = 240000;
   static const String empty = "";
   static const int zero = 0;
